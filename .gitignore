@@ -1,19 +1,225 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#EXTM3U
+ 
+################################################### CANAIS DE TV ABERTA ##########################################
+ 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LnRj768xVEk/WMHtfoYNpdI/AAAAAAAAFw4/zcqubFkoESUSgE7yqt46lRZhh2RASNtfQCLcB/s1600/gb.png" group-title="Tv aberta",GLOBO
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-LnRj768xVEk/WMHtfoYNpdI/AAAAAAAAFw4/zcqubFkoESUSgE7yqt46lRZhh2RASNtfQCLcB/s1600/gb.png" group-title="Tv aberta",GLOBO HD
+http://5.79.68.138:8081/look/sptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://www.tvonline.org/img/canais/sbt-ao-vivo.png" group-title="Tv aberta",SBT
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.tvonline.org/img/canais/record-ao-vivo.png" group-title="Tv aberta",RECORD
+http://5.79.68.138:8081/look/record/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s6.postimg.org/ik4szkwe9/record.png" group-title="Tv aberta",Record Africa
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://aovivonatv.com/imagens/canais/band.png" group-title="Tv aberta",BAND
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://www.tvonline.org/img/canais/redetv-ao-vivo.png" group-title="Tv aberta",REDE TV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="Tv aberta",TV Cultura PB HD
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="Tv aberta",TVE SP
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5iwiuur3h/NGT.png" group-title="Tv aberta"",NGT TVTC
+http://streaming59.sitehosting.com.br:1935/tvtc/_definst_/tvtc/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Terra Viva [Brazil]" tvg-logo="http://s20.postimg.org/hyt8olkfh/Terra_Viva.png" group-title="Tv aberta"",Terra Viva
+http://evtg.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="TV Justiça [Brazil]" tvg-logo="http://s8.postimg.org/ciwwegpr9/tvjustica.png" group-title="Tv aberta",TV Justiça
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_480p/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-oqYRDIZRHl4/UgQsIlNjjsI/AAAAAAAAHlM/uG_q3GJtobE/s1600/IMPD+BANNER.jpg" group-title="Tv aberta",IGREJA MUNDIAL
+http://impd.crossdigital.com.br:1935/impd/impd/chunklist_w403727623.m3u8
+ 
+#EXTINF:0 tvg-logo="http://bbb.globo.com/RealityShows/BBB3/i/bbb3_logo.gif" group-title="Tv aberta",BBB 17
+http://tv.redecanais.com:1935/redecanaisbbb/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/8yjrmyh9z/bbb17.png" group-title="Tv aberta",BBB 17 CAM 3
+http://64.251.19.236:1935/live/cam1%20%20%20%20%20%20%20%20%20%20TVE%20%20%20%20%20%20%20%20%20%20BBB%20%20%20%20%2017%20%20%20%20%20%20%20%20%20%20TV%20e/chunklist_w1393704775.m3u8
+ 
+############################################# CANAIS DE FILMES FECHADOS ###############################################
+ 
+#EXTINF:-1 tvg-logo="http://minhatv.esy.es/logos/Telecine%20Premium%20.png" group-title="CANAL CABO",Telecine Premium HD
+http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/688.ts
+ 
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s28.postimg.org/cqqksvb61/megapix.png" group-title="Canais de filmes",Megapix
+http://163.172.147.18:8081/megapix_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Canais de filmes",Telecine Touch
+http://169.57.142.110:25461/live/NiB5FT5Tjm/qfEF8isxBt/109.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="Canais de filmes",Fox
+http://163.172.147.18:8081/fox_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Paramount Channel [Brazil]" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Canais de filmes",Paramount
+http://169.57.142.110:25461/live/pirOBhEwYK/AVdDdzbonv/44.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-logo="http://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Canais de filmes",Warner
+http://163.172.147.18:8081/warner_channel_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-logo="http://s20.postimg.org/y64l1rxrh/Lifetime.png" group-title="Canais de filmes",Lifetime
+http://169.57.142.110:25461/live/lMN9Vi29n6/yFIhssEP7O/90.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/eq5lzt.jpg" group-title="Canais de filmes",TELE CINE CULT
+http://169.57.142.110:25461/live/MLFKk6f067/ovNcOYfHge/55.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Canais de filmes",Studio Universal
+http://169.57.142.110:25461/live/27b9CrZWwt/fbu59eEmLZ/64.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-logo="http://s31.postimg.org/r52hou6h7/sony2.png" group-title="Canais de filmes",Sony
+http://169.57.142.110:25461/live/GO6TFB3wTU/WnuNJ619l2/68.m3u8?PEDROJUNIORTUTORIAIS
+ 
+######################################## CANAIS INFANTIL FECHADOS ###########################################
+ 
+#EXTINF:0 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2015/05/Disney-Junior-Online-208x119.jpg" group-title="Infantil",Disney junior
+http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+http://tv.redecanais.com:1935/redecanaisnick/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
+http://163.172.147.18:8081/nick_jr./2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Cartoon Network [Brazil]" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
+http://163.172.147.18:8081/cartoon_network_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
+http://163.172.147.18:8081/disney_xd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Disney Channel HD [Brazil]" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
+http://163.172.147.18:8081/disney_channel_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+################################################### CANAIS DE ESPORTE ##################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+http://163.172.147.18:8081/premiere_2_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-jWlvzbSJzgM/UPQuNonbR6I/AAAAAAAAAVw/Z30UnvE1tHc/s1600/Sportv_hd_wide_sd.jpg" group-title="Esportes",ESPORTE TV HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+ 
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
+http://163.172.147.18:8081/sport_tv_3_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports
+http://163.172.147.18:8081/fox_sports_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/2017/02/17/fox2.png" ,Fox Sports 2 HD
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u
+ 
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://163.172.147.18:8081/premiere_clubes_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/evsil85gt/Fish_TV.png" group-title="Esportes",Fish TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="EI Maxx 2 [Brazil]" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Max 2
+http://163.172.147.18:8081/ei_maxx_2_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="http://azartnews.com/storage/article/redaktor/570bf846baf22.jpg" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+http://163.172.147.18:8081/premiere_5_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN HD
+http://m3u.me/P7
+ 
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil HD
+http://m3u.me/P8
+ 
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+ HD
+http://m3u.me/P6
+ 
+################################################# CANAIS DE DOCUMENTÁRIOS###############################################
+ 
+#EXTINF:0 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbo.png" group-title="Canais de filmes",HBO
+http://163.172.24.207/loadbalance/canal-hbo-plus-e/chunks.m3u8?nimblesessionid=6720029&wmsAuthSign=c2VydmVyX3RpbWU9My85LzIwMTcgNzozNTowMCBBTSZoYXNoX3ZhbHVlPWhmaFkyYzltY1RpQ1JsUmtlcVRJOEE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+ 
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-logo="http://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",Animal Planet
+http://163.172.147.18:8081/animal_planet/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-logo="http://s20.postimg.org/u148b2iyx/Nat_Geo_Wild.png" group-title="Documentários",Nat Geo Wild
+http://169.57.142.110:25461/live/Rty9SOsE6v/t8xYOxfYUh/82.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="Documentários",History
+http://163.172.147.18:8081/the_history_channel_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="H2 [Brazil]" tvg-logo="http://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentários",H2
+http://163.172.147.18:8081/h2_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="Documentários",Discovery Channel
+http://169.57.142.110:25461/live/QDfZ2jbBJr/AVa8idVGEP/108.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-logo="http://s20.postimg.org/6nnb2ofwp/Discovery_Turbo.png" group-title="Documentários",Discovery Turbo
+http://163.172.147.18:8081/discovery_turbo_hd/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-logo="http://s20.postimg.org/4tagkxsw9/Discovery_Science.png" group-title="Documentários",Discovery Science
+http://163.172.147.18:8081/discovery_science/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-logo="http://s20.postimg.org/qd5lf4nt5/Discovery_Civilization.png" group-title="Documentários",Discovery Civilization
+http://169.57.142.110:25461/live/tSdvwzzHMn/hFDXQgynvt/111.m3u8?PEDROJUNIORTUTORIAIS
+ 
+##################################################### RÁDIOS ONLINE #############################################
+ 
+#EXTINF:0 tvg-logo="http://bandfm.net/wp-content/uploads/2017/01/logo_band2.png" group-title="RADIOS",BAND FM EUNÁPOLIS
+http://200.98.206.233:8005/;
+ 
+#EXTINF:0 tvg-logo="http://metropolitanafm.uol.com.br/wp-content/themes/Metropolitana_2016/img/sem_foto_logom.jpg" group-title="RADIOS",RADIO METROPOLITANA
+http://ice.paineldj3.com.br:8006/live
+#EXTINF:0 tvg-logo="http://img.radios.com.br/radio/lg/radio11176_1439401387.jpg" group-title="RADIOS",Caraipe fm
+http://delivery-s3.adswizz.com/audioad_newEnco/ad_5593_ed11364f2a96c071a20de21b2faf364c_1489602819157315283888470.mp3
+ 
+#EXTINF:0 tvg-logo="http://img.radios.com.br/radio/xl/radio8900_1467740582.jpg" group-title="RADIOS",99 FM DE ITAMARAJU
+http://radio99fm.streams.com.br:7820/stream?type=.flv&start=0
+ 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/cY9DoZUAvoc/hqdefault_live.jpg" group-title="RADIOS",AM 830 ITAMARAJU
+http://ice01.wscast.com:8004/live.aac
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png" group-title="RADIOS",RADIO MIX FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+ 
+#EXTINF:0 tvg-logo="http://www.radiotransamerica.com.br/Content/data/mundo/min/3.2.png" group-title="RADIOS",
+http://transamerica.crossradio.com.br:9100/live.aac
+ 
+#EXTINF:0 tvg-logo="http://www.radiotropicalfm.com/wp-content/themes/tropicalfm/images/logo-tropical.png" group-title="RADIOS",TROPICAL FM 107,9
+http://198.27.64.63:8001/live
+ 
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-5r0wMKjctSM/U4aOwEIXncI/AAAAAAAANP8/0M4rUWk2McY/s1600/Logo_Antena_1_Campinas.jpg" group-title="RADIOS",ANTENA 1
+http://antena1.newradio.it/stream2?ext=.mp3
+ 
+#EXTINF:0 tvg-logo="http://www.diariopernambucano.com.br/wp-content/uploads/2011/07/Radio-Nova-Brasil-FM-Ao-Vivo1.jpg" group-title="RADIOS",NOVA BRASIL FM
+rtmp://289a.cdn.upx.net.br/00086/myStream.sdp
+ 
+#EXTINF:0 tvg-logo="http://www.radiosbrasileiras.net/img/rd/12.jpg" group-title="RADIOS",MPB FM
+rtmp://evp.mm.uol.com.br/mpb_rj/_definst_/mpb_rj.sdp/rtmp://evp.mm.uol.com.br:1935/mpb_rj/_definst_/mpb_rj.sdp
+ 
+#EXTINF:0 tvg-logo="http://www.sabertudo.net/wp-content/uploads/2012/02/105FM.jpg" group-title="RADIOS",105 FM
+http://st1.midaweb.com.br:9746/stream/1/
+ 
+#EXTINF:0 tvg-logo="http://www.itaberaba.net/wp-content/uploads/2015/12/radio-jovem-pan-florianopolis.jpeg" group-title="RADIOS",JOVEM PAN
+rtmp://wz5.dnip.com.br/jfloripa//jfloripa.stream
+ 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-Ko9EZW048fw/UDAKjxmeCMI/AAAAAAAAHro/Qw7h6lLSwG4/s1600/RADIO_BAND_FM_VITORIA_DA_CONQUISTA_BA.png" group-title="RADIOS",BAND FM
+http://bandfm991.flashplayer.acessaradios.com.br:8004/bandfm991
+ 
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eTkEh0M5ook/VPnsH4XqmbI/AAAAAAAAH0U/Yi22yG4SLBc/s1600/RADIO_FELIZ_FM_RECIFE_PE.png" group-title="RADIOS",FELIZ FM
+http://streamfeliz.com.br:9998/;stream.ogg
+ 
+#EXTINF:0 tvg-logo="http://www.bastidoresdoradio.com/radio_kiss_logo.JPG" group-title="RADIOS",KIS 101 FM
+http://11254q.ls.azioncdn.net/1254q/a/kissfm2.sdp/playlist.m3u8?wowzasessionid=1369020809
